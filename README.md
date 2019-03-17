@@ -32,3 +32,4 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 三郷町版への改変は Code for Sango が行っています。
 
 - [雑賀 誠(Saiga Makoto)](https://github.com/teatime24h)
+- 木谷 慎一郎(Kitani Shinichiro)
